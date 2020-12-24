@@ -1,0 +1,20 @@
+## Matplotlib configuration
+
+axes.labelsize : 16
+xtick.labelsize : 16
+ytick.labelsize : 16
+legend.fontsize : 14
+xtick.top : True
+ytick.right : True
+xtick.direction : in
+ytick.direction : in
+font.family : CMU Concrete
+#font.serif : cm
+axes.grid : True
+axes.unicode_minus : False
+grid.alpha : .2
+grid.color : 000000
+grid.linestyle : -
+axes.prop_cycle : cycler('color', 'bgrcmyk')
+axes.titlesize : 16
+figure.titlesize : 18
